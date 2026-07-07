@@ -3,3 +3,7 @@
 http://206.212.244.63/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1JhrS2sW/IMG-2213.png", A&E West
 http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHBzvm5C/IMG-2215.png", ACC Network East
+http://206.212.244.63/2486/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHBzvm5C/IMG-2215.png", ACC Network West
+https://d53csymoczzde.cloudfront.net/ACC_Network.m3u8
