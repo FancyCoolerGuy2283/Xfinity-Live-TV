@@ -15,3 +15,11 @@ http://41.223.30.230/AMC/index.m3u8
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/391CkMpk/IMG-2217.png", American Heroes Channel West
 http://fl51.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdx1QyzP/IMG-2218.png", Animal Planet East
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdx1QyzP/IMG-2218.png", Animal Planet West
+http://143.14.178.40:7777/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDFsdqdf/IMG-2219.png", AXS TV
+http://206.212.244.63/12/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W46QYtv9/IMG-2220.png", BabyFirst
+http://206.212.244.63/639/index.m3u8
