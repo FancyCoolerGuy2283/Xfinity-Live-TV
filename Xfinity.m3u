@@ -27,3 +27,11 @@ http://206.212.244.63/639/index.m3u8
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d05rpndx/IMG-2222.png", BBC America HD
 http://206.212.244.63/13/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4tDyQCv/IMG-2223.png", BBC News East
+http://84.17.50.102/bbcnews/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4tDyQCv/IMG-2223.png", BBC News West
+http://206.212.244.63/14/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFWCjhBD/IMG-2224.png", BET East
+http://84.17.50.102/bet/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFWCjhBD/IMG-2224.png", BET West
+http://206.212.244.63/16/index.m3u8
