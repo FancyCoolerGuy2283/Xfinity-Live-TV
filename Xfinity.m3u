@@ -53,3 +53,11 @@ https://bloomberg.com/media-manifest/streams/us.m3u8
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXTB8fhf/IMG-2229.png", Bravo West
 http://206.212.244.63/26/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jXqm494/IMG-2230.png", BYU TV
+http://206.212.244.63/28/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RGFs3P2/IMG-2231.png", CNN
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/3625
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39rVFYLM/IMG-2232.png", CBS Sports Network East
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39rVFYLM/IMG-2232.png", CBs Sports Network West
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts
