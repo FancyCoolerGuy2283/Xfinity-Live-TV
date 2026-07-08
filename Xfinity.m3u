@@ -45,3 +45,11 @@ http://206.212.244.63/20/index.m3u8
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCPfSNZx/IMG-2227.png", Big Ten Network West
 http://206.212.244.63/2489/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WmDFj6L/IMG-2228.png", Bloomberg Television East
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WmDFj6L/IMG-2228.png", Bloomberg Television West
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXTB8fhf/IMG-2229.png", Bravo East
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXTB8fhf/IMG-2229.png", Bravo West
+http://206.212.244.63/26/index.m3u8
