@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rpwg4yYc/IMG-2212.png", A&E East
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rpwg4yYc/IMG-2212.png", A&E (Pacific) (A&E)
 http://206.212.244.63/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1JhrS2sW/IMG-2213.png", A&E West
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JhrS2sW/IMG-2213.png", A&E HD (Pacific) (A&E)
 http://23.239.31.26:8989/aande/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHBzvm5C/IMG-2215.png", ACC Network East
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHBzvm5C/IMG-2215.png", ACC Network
 http://206.212.244.63/2486/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHBzvm5C/IMG-2215.png", ACC Network West
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHBzvm5C/IMG-2215.png", ACC Network
 https://d53csymoczzde.cloudfront.net/ACC_Network.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dJVdzMBD/IMG-2216.png", AMC East
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJVdzMBD/IMG-2216.png", AMC (Pacific) (AMC)
 http://23.239.31.26:8989/amc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dJVdzMBD/IMG-2216.png", AMC West
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJVdzMBD/IMG-2216.png", AMC HD (Pacific) (AMC)
 http://41.223.30.230/AMC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/391CkMpk/IMG-2217.png", American Heroes Channel East
+#EXTINF:-1 tvg-logo="https://i.ibb.co/391CkMpk/IMG-2217.png", American Heroes Channel (American Heroes)
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/391CkMpk/IMG-2217.png", American Heroes Channel West
+#EXTINF:-1 tvg-logo="https://i.ibb.co/391CkMpk/IMG-2217.png", American Heroes Channel HD (American Heroes)
 http://fl51.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdx1QyzP/IMG-2218.png", Animal Planet East
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdx1QyzP/IMG-2218.png", Animal Planet (Pacific) (Animal Planet)
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdx1QyzP/IMG-2218.png", Animal Planet West
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdx1QyzP/IMG-2218.png", Animal Planet HD (Pacific) (Animal Planet)
 http://143.14.178.40:7777/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDFsdqdf/IMG-2219.png", AXS TV
 http://206.212.244.63/12/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W46QYtv9/IMG-2220.png", BabyFirst
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W46QYtv9/IMG-2220.png", BabyFirst TV (BabyFirstTV)
 http://206.212.244.63/639/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vx55dN1W/IMG-2221.png", BBC America
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vx55dN1W/IMG-2221.png", BBC America (Pacific) (BBC America)
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d05rpndx/IMG-2222.png", BBC America HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d05rpndx/IMG-2222.png", BBC America HD (Pacific) (BBC America)
 http://206.212.244.63/13/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4tDyQCv/IMG-2223.png", BBC News East
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4tDyQCv/IMG-2223.png", BBC News (North America) (BBC News)
 http://84.17.50.102/bbcnews/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4tDyQCv/IMG-2223.png", BBC News West
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4tDyQCv/IMG-2223.png", BBC News (North America) HD (BBC News)
 http://206.212.244.63/14/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFWCjhBD/IMG-2224.png", BET East
 http://84.17.50.102/bet/index.m3u8
