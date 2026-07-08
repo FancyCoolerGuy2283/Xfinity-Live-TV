@@ -41,3 +41,7 @@ http://41.205.93.154/BETHER/index.m3u8
 http://206.212.244.63/19/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4XXhng1/IMG-2226.png", BET Jams
 http://206.212.244.63/20/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCPfSNZx/IMG-2227.png", Big Ten Network East
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCPfSNZx/IMG-2227.png", Big Ten Network West
+http://206.212.244.63/2489/index.m3u8
