@@ -69,3 +69,9 @@ http://206.212.244.63/38/index.m3u8
 http://206.212.244.63/41/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zW90HnBy/IMG-2234.png", CNBC HD (CNBC)
 http://206.212.244.63/41/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RGFs3P2/IMG-2231.png", CNN HD (CNN)
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/3625
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDL0WdPd/IMG-2242.png", Comedy Central (Pacific) (Comedy Central)
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDL0WdPd/IMG-2242.png", Comedy Central HD (Pacific) (Comedy Central)
+http://206.212.244.63/44/index.m3u8
