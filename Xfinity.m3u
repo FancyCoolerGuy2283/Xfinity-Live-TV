@@ -23,3 +23,7 @@ http://143.14.178.40:7777/Animal_Planet_HD/index.m3u8
 http://206.212.244.63/12/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W46QYtv9/IMG-2220.png", BabyFirst
 http://206.212.244.63/639/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vx55dN1W/IMG-2221.png", BBC America
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d05rpndx/IMG-2222.png", BBC America HD
+http://206.212.244.63/13/index.m3u8
